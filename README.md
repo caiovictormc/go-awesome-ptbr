@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/caiovictormc/go-awesome-ptbr/raw/master/gopher.jpg" height="320" width="640" >
+<img src="https://github.com/caiovictormc/go-awesome-ptbr/raw/master/gopher.jpg" height="320" width="610" >
 </p>
 
 # Guia para Desenvolvedores Go #
