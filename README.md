@@ -35,6 +35,7 @@ https://www.casadocodigo.com.br/products/livro-google-go
 * PlayList - [Aulas de Golang para Iniciante](https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT), canal de YouTube [LinuxPro](https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg)
 * Blog - Zeu Cxb, https://medium.com/@zeucxb
 * Blog - Felipe Oliveira, https://www.felipeweb.net.br/
+* Blog - Aprenda Golang - Tiago Temporin, http://www.aprendagolang.com.br/
 
 ## Eventos ##
 * GopherConBR - https://2016.gopherconbr.org/
