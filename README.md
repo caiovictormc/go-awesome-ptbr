@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/caiovictormc/go-awesome-ptbr/raw/master/gopher.jpg" height="320" width="610" >
+<img src="https://github.com/caiovictormc/go-awesome-ptbr/raw/master/gopher.jpg" height="320" width="590" >
 </p>
 
 # Guia para Desenvolvedores Go #
@@ -32,7 +32,8 @@ https://www.casadocodigo.com.br/products/livro-google-go
 
 ## Blogs e Vlogs ##
 * Playlist - [Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI), canal do YouTube [Eu Programador](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA)
-* PlayList - [Aulas de Golang para Iniciante](https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT), canal de YouTube [LinuxPro](https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg)
+* PlayList - [Aulas de Golang para Iniciante](https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT), canal do YouTube [LinuxPro](https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg)
+* Playlist - [Go - Básico](https://www.youtube.com/playlist?list=PLKYb0LD_tS8Q60poV7iwrkLjUybURAuYq), canal do YouTube [Webschool - GO](https://www.youtube.com/channel/UCXJcJFMyw8aBnvV0SPZWAdg)
 * Blog - Zeu Cxb, https://medium.com/@zeucxb
 * Blog - Felipe Oliveira, https://www.felipeweb.net.br/
 * Blog - Aprenda Golang/Tiago Temporin, http://www.aprendagolang.com.br/
@@ -42,6 +43,12 @@ https://www.casadocodigo.com.br/products/livro-google-go
 
 ## Grupos de Telegram ##
 * GoBr - https://telegram.me/go_br
+
+## Grupos de Slack ##
+* Gopher - https://invite.slack.golangbridge.org/ , Canais Brasileiros do grupo de Slack Gopher:  
+#brazil  
+#brazil-gobridge  
+#brasil-novosusuarios  
 
 ## Inspirado em: ##
 https://github.com/renatosousafilho/docker-awesome-ptbr
