@@ -15,9 +15,10 @@ https://golang.org/
 http://www.golangbr.org/
 
 ## Sites e Links Úteis ##
-* https://github.com/avelino/awesome-go
 * http://tutorial.danielmazza.info/go
 * http://goporexemplo.golangbr.org/
+* https://github.com/avelino/awesome-go (EN)
+* https://github.com/dariubs/GoBooks (EN)
 
 ## Comunidades e Grupos de Usuários ##
 * Contribua :)
@@ -41,8 +42,9 @@ https://www.casadocodigo.com.br/products/livro-google-go
 ## Eventos ##
 * GopherConBR - https://2016.gopherconbr.org/
 
-## Grupos de Telegram ##
+## Grupos de Telegram e Grupos do Google ##
 * GoBr - https://telegram.me/go_br
+* Golang Brasil - https://groups.google.com/forum/#!forum/golang-brasil
 
 ## Grupos de Slack ##
 * Gopher - https://invite.slack.golangbridge.org/ , Canais Brasileiros do grupo de Slack Gopher:  
