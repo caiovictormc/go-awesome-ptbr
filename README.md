@@ -31,6 +31,7 @@ https://novatec.com.br/livros/go-acao/
 *  Programando em Go, Caio Filipini (Casa do Código)
 https://www.casadocodigo.com.br/products/livro-google-go
 
+
 ## Blogs e Vlogs ##
 * Playlist - [Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI), canal do YouTube [Eu Programador](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA)
 * PlayList - [Aulas de Golang para Iniciante](https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT), canal do YouTube [LinuxPro](https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg)
@@ -38,6 +39,7 @@ https://www.casadocodigo.com.br/products/livro-google-go
 * Blog - Zeu Cxb, https://medium.com/@zeucxb
 * Blog - Felipe Oliveira, https://www.felipeweb.net.br/
 * Blog - Aprenda Golang/Tiago Temporin, http://www.aprendagolang.com.br/
+* Blog - André Leoni, https://andreleoni.medium.com/
 
 ## Eventos ##
 * GopherConBR - https://2016.gopherconbr.org/
