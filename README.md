@@ -19,6 +19,7 @@ http://www.golangbr.org/
 * http://goporexemplo.golangbr.org/
 * https://github.com/avelino/awesome-go (EN)
 * https://github.com/dariubs/GoBooks (EN)
+* https://gonoticias.substack.com/
 
 ## Comunidades e Grupos de Usuários ##
 * Contribua :)
